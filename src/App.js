@@ -1,13 +1,21 @@
-// src/App.js
 import React from 'react';
-import Header from './pages/Header';
-import Home from './pages/Home';
-
+import Navbar from './pages/Navbar';
+import Hero from './pages/Hero';
+import Projects from './pages/Projects';
+import Experience from './pages/Experience';
+import Skills from './pages/Skills';
+import Contact from './pages/Contact';
+import Certifications from './pages/Certifications';
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Home />
+    <div>
+      <Navbar />
+      <Hero />
+      <Projects />
+      <Experience />
+      <Skills />
+      <Certifications/>
+      <Contact />
     </div>
   );
 }
