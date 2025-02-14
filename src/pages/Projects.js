@@ -12,7 +12,7 @@ const projects = [
     title: 'Biryani Ordering Platform',
     description: 'Food ordering app integrating Google Cloud and Stripe.',
     image: 'https://www.cmu.edu/dietrich/news/news-stories/2016/july/images/online-ordering_900x600.jpg',
-    link: 'https://biryani.com/',
+    link: 'https://test.biryani.com/',
   },
   {
     title: 'Recipe Sharing Platform',
