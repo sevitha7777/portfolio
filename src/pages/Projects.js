@@ -20,6 +20,12 @@ const projects = [
     image: 'https://store.nytimes.com/cdn/shop/products/cooking-open_grande.gif?v=1615235630',
     link: 'https://github.com/sevitha7777/ibm-meta',
   },
+    {
+    title: 'Single-page Applications(SPA)',
+    description: 'Developed multiple SPAs using React.js, implementing state management and API integrations. ',
+    image: 'https://www.magnolia-cms.com/dam/jcr:d08b7433-ecc0-4007-93f5-bf15c9773523/Page%20Editor%20SPA.png',
+    link: 'https://basic2do.netlify.app/',
+  },
 ];
 
 const Projects = () => {
